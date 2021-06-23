@@ -1,0 +1,15 @@
+{
+    "name": "javascript-plugin",
+    "version": "1.0.0",
+    "description": "Ejercicio del curso de javascript profesional",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "parcel index.html ejercicios/index.html ejercicios/**/*.html"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "live-server": "^1.2.1"
+    }
+}
